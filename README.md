@@ -1,11 +1,10 @@
-# JogoDaVelha
-Jogo da velha em Javascript trabalhando algoritimos de Inteligencia Artificial. Página Desenvolvida para testes.
+# Relogio em For
+Programa na linguagem C++ que simula um relogio digital com horas, minutos e segundos.
 
-
-JavaScript/ CSS /  bootstrap / jquery
+C++
 ## Sobre este repositório
 
-Jogo da velha utilizando HTML, CSS e JS. Utilizando Algortimos de inteligencia artificial (MINIMAX) para determinar as escolhas do adversario.
+Um pequeno Programa na linguagem C++ que simula um relogio digital com horas, minutos e segundos.
 
 ## Autor
 
