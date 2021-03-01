@@ -1,7 +1,11 @@
 /*
 Programa na linguagem C++ que simula um relogio digital com horas, minutos e segundos.
 */
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 //chama a biblioteca iostream
 #include<iostream>
 
